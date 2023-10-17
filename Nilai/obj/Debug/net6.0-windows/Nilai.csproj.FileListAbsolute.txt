@@ -1,0 +1,16 @@
+C:\Users\rpl 1\source\repos\Nilai\Nilai\bin\Debug\net6.0-windows\Nilai.exe
+C:\Users\rpl 1\source\repos\Nilai\Nilai\bin\Debug\net6.0-windows\Nilai.deps.json
+C:\Users\rpl 1\source\repos\Nilai\Nilai\bin\Debug\net6.0-windows\Nilai.runtimeconfig.json
+C:\Users\rpl 1\source\repos\Nilai\Nilai\bin\Debug\net6.0-windows\Nilai.dll
+C:\Users\rpl 1\source\repos\Nilai\Nilai\bin\Debug\net6.0-windows\Nilai.pdb
+C:\Users\rpl 1\source\repos\Nilai\Nilai\obj\Debug\net6.0-windows\Nilai.Form1.resources
+C:\Users\rpl 1\source\repos\Nilai\Nilai\obj\Debug\net6.0-windows\Nilai.csproj.GenerateResource.cache
+C:\Users\rpl 1\source\repos\Nilai\Nilai\obj\Debug\net6.0-windows\Nilai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rpl 1\source\repos\Nilai\Nilai\obj\Debug\net6.0-windows\Nilai.AssemblyInfoInputs.cache
+C:\Users\rpl 1\source\repos\Nilai\Nilai\obj\Debug\net6.0-windows\Nilai.AssemblyInfo.cs
+C:\Users\rpl 1\source\repos\Nilai\Nilai\obj\Debug\net6.0-windows\Nilai.csproj.CoreCompileInputs.cache
+C:\Users\rpl 1\source\repos\Nilai\Nilai\obj\Debug\net6.0-windows\Nilai.dll
+C:\Users\rpl 1\source\repos\Nilai\Nilai\obj\Debug\net6.0-windows\refint\Nilai.dll
+C:\Users\rpl 1\source\repos\Nilai\Nilai\obj\Debug\net6.0-windows\Nilai.pdb
+C:\Users\rpl 1\source\repos\Nilai\Nilai\obj\Debug\net6.0-windows\Nilai.genruntimeconfig.cache
+C:\Users\rpl 1\source\repos\Nilai\Nilai\obj\Debug\net6.0-windows\ref\Nilai.dll
